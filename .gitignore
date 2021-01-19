@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+
+/VioletEngine/bin
+/VioletEngine/bin-int
